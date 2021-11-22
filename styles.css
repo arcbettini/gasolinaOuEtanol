@@ -1,0 +1,12 @@
+/*===========================RESET*/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.mainContainer {
+  border-width: medium;
+  border-color: black;
+  border-style: solid;
+}
